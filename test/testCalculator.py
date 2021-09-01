@@ -1,6 +1,6 @@
 #from code.calculator import diffOfTwoNos, productOfTwoNos, sumOfTwoNos
-import sys
-sys.path.insert(1, 'code')
+import sys,os
+sys.path.insert(1, os.path.realpath('code'))
 import calculator
 
 import unittest
