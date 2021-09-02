@@ -50,5 +50,10 @@ class TestCalculator(unittest.TestCase):
         result = calculator.squareOfNumber(a)
         self.assertEqual(result,36)
 
+    def testCubeOfNumber(self):
+        a=3
+        result= calculator.cubeOfNumber(a)
+        self.assertEqual(result,27)
+
 if __name__ == '__main__':
     unittest.main()

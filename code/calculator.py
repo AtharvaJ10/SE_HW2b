@@ -12,3 +12,6 @@ def divisionOfTwoNos(a,b):
 
 def squareOfNumber(a):
     return a**2
+
+def cubeOfNumber(a):
+    return a**3
