@@ -44,5 +44,11 @@ class TestCalculator(unittest.TestCase):
         result = calculator.productOfTwoNos(a,b)
         self.assertEqual(result, 2)
 
+    def testSqaureOfNumber(self):
+        # test square of a number
+        a = 6
+        result = calculator.squareOfNumber(a)
+        self.assertEqual(result,36)
+
 if __name__ == '__main__':
     unittest.main()

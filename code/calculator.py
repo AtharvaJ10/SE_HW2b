@@ -9,3 +9,6 @@ def diffOfTwoNos(a,b):
 
 def divisionOfTwoNos(a,b):
     return a/b
+
+def squareOfNumber(a):
+    return a**2
