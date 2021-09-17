@@ -9,11 +9,12 @@ Please cite SE_HW2b as follows:
 # BibTeX
 
 ```text
-@software{atharvaj10_2021_5372987,
-  author       = {AtharvaJ10 and
-                  Banpreet13 and
+@software{atharva_joshi_2021_5372987,
+  author       = {Atharva Joshi and
+                  Banpreet Chhabra and
                   Shivam Pednekar and
-                  vaish68},
+                  Vaishnavi Patil and
+                  Atharva Patil},
   title        = {atharva1996/SE\_HW2b: Zenodo},
   month        = sep,
   year         = 2021,
@@ -40,19 +41,22 @@ Please cite SE_HW2b as follows:
       ]
     ]
   }, 
-  "abstract": "Software Engineering Homework 2b", 
+  "abstract": "<p>Software Engineering Homework 2b</p>", 
   "author": [
     {
-      "family": "AtharvaJ10"
+      "family": "Atharva Joshi"
     }, 
     {
-      "family": "Banpreet13"
+      "family": "Banpreet Chhabra"
     }, 
     {
       "family": "Shivam Pednekar"
     }, 
     {
-      "family": "vaish68"
+      "family": "Vaishnavi Patil"
+    }, 
+    {
+      "family": "Atharva Patil"
     }
   ], 
   "version": "DOI", 
@@ -84,11 +88,11 @@ Please cite SE_HW2b as follows:
   "doi": "10.5281/zenodo.5372987", 
   "stats": {
     "version_unique_downloads": 0.0, 
-    "unique_views": 6.0, 
-    "views": 12.0, 
-    "version_views": 12.0, 
+    "unique_views": 7.0, 
+    "views": 13.0, 
+    "version_views": 13.0, 
     "unique_downloads": 0.0, 
-    "version_unique_views": 6.0, 
+    "version_unique_views": 7.0, 
     "volume": 0.0, 
     "version_downloads": 0.0, 
     "downloads": 0.0, 
@@ -106,14 +110,14 @@ Please cite SE_HW2b as follows:
   }, 
   "conceptdoi": "10.5281/zenodo.5372986", 
   "created": "2021-09-02T04:08:35.271199+00:00", 
-  "updated": "2021-09-02T13:48:26.203869+00:00", 
+  "updated": "2021-09-17T06:51:20.588573+00:00", 
   "conceptrecid": "5372986", 
-  "revision": 3, 
+  "revision": 5, 
   "id": 5372987, 
   "metadata": {
     "access_right_category": "success", 
     "doi": "10.5281/zenodo.5372987", 
-    "description": "Software Engineering Homework 2b", 
+    "description": "<p>Software Engineering Homework 2b</p>", 
     "license": {
       "id": "other-open"
     }, 
@@ -139,16 +143,19 @@ Please cite SE_HW2b as follows:
     "publication_date": "2021-09-02", 
     "creators": [
       {
-        "name": "AtharvaJ10"
+        "name": "Atharva Joshi"
       }, 
       {
-        "name": "Banpreet13"
+        "name": "Banpreet Chhabra"
       }, 
       {
         "name": "Shivam Pednekar"
       }, 
       {
-        "name": "vaish68"
+        "name": "Vaishnavi Patil"
+      }, 
+      {
+        "name": "Atharva Patil"
       }
     ], 
     "access_right": "open", 
