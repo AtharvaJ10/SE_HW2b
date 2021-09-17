@@ -2,9 +2,9 @@ Click the badge for full citation.
 * [![DOI](https://zenodo.org/badge/401184322.svg)](https://zenodo.org/badge/latestdoi/401184322)
 
 Please cite SE_HW2b as follows:
-- [BibTex](https://github.com/AtharvaJ10/SE_HW2b/new/main#bibtex)
--	[CSL](https://github.com/AtharvaJ10/SE_HW2b/new/main#csl)
--	[JSON](https://github.com/AtharvaJ10/SE_HW2b/new/main#json)
+- [BibTex](https://github.com/AtharvaJ10/SE_HW2b/blob/main/CITATION.md#bibtex)
+-	[CSL](https://github.com/AtharvaJ10/SE_HW2b/blob/main/CITATION.md#csl)
+-	[JSON](https://github.com/AtharvaJ10/SE_HW2b/blob/main/CITATION.md#json)
 
 # BibTeX
 
